@@ -24,4 +24,10 @@ fun main(){
      val keywordu javada ki final keywordu gibi çalışmaktadır
      */
 
+    /*TERMINAL
+    Hallo Welt
+Hallo Sedat Kaya
+Hallo Sedat Yalcin
+*/
+
 }

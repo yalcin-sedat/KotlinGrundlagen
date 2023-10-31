@@ -26,9 +26,19 @@ fun main(){
 
     println("$myNummer + 1 =  ${++myNummer} ")
 
-
-
-
+    /*
+   isEqual ist = false
+   isEqual ist : true
+   isEqual3 ist : false
+   6 ist klein als 9 --> true or false :  true
+   8 ist klein als 5 --> true or false :  false
+   5 kleiner oder gleich als 5 --> true or false :  true
+   6 + 4 = 10
+   6 - 4 = 2
+   6 * 2  = 12
+   6 / 4 =  1
+   6 + 1 =  7
+   */
 
 
 }

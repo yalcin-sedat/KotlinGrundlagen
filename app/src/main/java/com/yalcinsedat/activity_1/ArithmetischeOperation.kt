@@ -22,6 +22,11 @@ fun main(){
 
 
 
-
+/*
+Result : 30
+Result 1 : 2
+Result + Result_1 = 30+2
+Summe = 30.3 + 40.0
+*/
 
 }

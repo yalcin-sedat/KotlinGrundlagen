@@ -33,7 +33,11 @@ fun main(){
     println(lastChar)
 
 
-
+/* Terminal
+21
+H
+d
+*/
 
 
 }
