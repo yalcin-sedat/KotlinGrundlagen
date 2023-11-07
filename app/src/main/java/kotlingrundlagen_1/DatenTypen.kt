@@ -1,4 +1,4 @@
-package com.yalcinsedat.activity_1
+package kotlingrundlagen_1
 
 fun main(){
 
