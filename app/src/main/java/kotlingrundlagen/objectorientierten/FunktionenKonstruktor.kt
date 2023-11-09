@@ -19,7 +19,7 @@ package kotlingrundlagen.objectorientierten
     }
 
     fun main() {
-        // Employee sınıfından iki çalışan örneği oluştur
+        // Employee sınıfından 3 çalışan örneği oluştur
         val employee1 = Employee("Ahmet", 30, "Yazılım Mühendisi")
         val employee2 = Employee("Mehmet", 25, "İş Analisti")
         val employee3 = Employee("Sedat", 32, "Bilgisayar Mühendisi")
